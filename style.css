@@ -1,0 +1,10 @@
+h1 { text-align: center; font-family: gabriola; font-color: lightblue; font-size: 40px; }
+h2 { font-family: Palatino Linotype; color: cornflowerblue; text-align: center;}
+p { text-align: center; font-family: Ink Free; font-color: black; font-style: bold; }
+.nav ul { list-style-type: none; background-color: lightcyan; text-align: center; padding:0, margin:0; }
+.nav li { display: inline-block }
+.nav a { text-decoration: none; color: navy; width: 100px; display:block; padding: 15px; font-size: 17px; font-family: Palatino Linotype; transition: 0.4s; }
+div.groove {border-style: groove; }
+body { margin:0; padding:0; background: aliceblue; }
+img { display: block; margin-left: auto; margin-right: auto}
+#myBtn {display: block; margin: 0 auto; padding: 10px; margin-top: 30px; margin-bottom: 30px; background-color: lightblue; font-size: 18px; border-radius: 2px; }
